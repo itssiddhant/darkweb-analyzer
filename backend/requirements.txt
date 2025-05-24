@@ -1,0 +1,17 @@
+flask
+flask_cors
+flask_sock
+bson
+python-dotenv
+requests
+beautifulsoup4
+stem
+html2text
+spacy
+textblob
+scikit-learn
+matplotlib
+pandas
+geoip2
+plotly
+OTXv2
